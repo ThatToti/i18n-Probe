@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-* [多语言中浏览器的检测与差异性](Browser Detection and Difference.md)
+* [多浏览器的语言检测与差异性](Browser Detection and Difference.md)
 

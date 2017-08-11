@@ -1,4 +1,6 @@
 # i18n-Probe
-a book for i18n in actual project 
 
-这里是为给在实际项目中，遇到过的坑，而书写的文章。对比过网上多篇文章后，发现不少人有不同的细节的错误和讲解不到位的地方，于是写了这篇文章。
+a book for i18n in actual project
+
+
+
